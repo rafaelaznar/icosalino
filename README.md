@@ -1,2 +1,4 @@
 # icosalino
-Cuadrante de multiplicaciones JSP igual que glodivario pero usando método multiplicación en JSP
+  * Cuadrante de multiplicaciones JSP. 
+  * Es una modificación de (glodivario)[https://github.com/rafaelaznar/glodivario]
+  * Usa un método multiplicación en JSP definido mediante etiquetas <%! %>
